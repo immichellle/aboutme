@@ -49,10 +49,6 @@ nav a:hover {
         text-align: center;
         gap: 1.5rem;
     }
-    .pfp {
-        width: 200px;
-        height: 200px;
-    }
     .logos {
         gap: 10px;
     }
